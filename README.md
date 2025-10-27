@@ -8,7 +8,7 @@
 | Lab 15 | WAP TO DEMONSTRATE SHARPENING OF AN IMAGE | [sharpening.py](./sharpening.py) |[white.webp](./Images/white.webp) |
 | Lab 16 | WAP TO ADD GAUSSIAN NOISE TO AN IMAGE | [gaussian.py](./gaussian.py) |[high.jpg](./Images/high.jpg) |
 | Lab 17 | WAP TO ADD SOBEL FILTER TO AN IMAGE | [sobel.py](./sobel.py) |[bricks.jpg](./Images/bricks.jpg) |
-| Lab 18 | WAP TO DEMONSTRATE LAPLACIAN WITH SHARPENING | [laplacian_with_sharpning.py](./laplacian_with_sharpning.py) |[moon.jpg](./Images/moon.jpg) |
+| Lab 18 | WAP TO DEMONSTRATE LAPLACIAN WITH SHARPENING | [laplacian_with_sharpning.py](./laplacian_with_sharpening.py) |[moon.jpg](./Images/moon.jpg) |
 | Lab 19 | &nbsp;&nbsp;(I) BUTTERWORTH LOW-PASS FILTERING <br> &nbsp;&nbsp;(II) GAUSSIAN LOW-PASS FILTERING <br> &nbsp;&nbsp;(III) IDEAL LOW-PASS FILTERING | [lab19_1.py](./lab19_1.py) <br> [lab19_2.py](./lab19_2.py) <br> [lab19_3.py](./lab19_3.py) |[white.webp](./Images/white.webp) |
 | Lab 20 | &nbsp;&nbsp;(I) BUTTERWORTH HIGH-PASS FILTERING <br> &nbsp;&nbsp;(II) GAUSSIAN HIGH-PASS FILTERING <br> &nbsp;&nbsp;(III) IDEAL HIGH-PASS FILTERING | [lab20_1.py](./lab20_1.py) <br> [lab20_2.py](./lab20_2.py) <br> [lab20_3.py](./lab20_3.py) |[camera.png](./Images/camera.png) |
 | Lab 21 | WAP TO PLOT MAGNITUDE SPECTRUM | [lab21.py](./lab21.py) |[good1.jpeg](./Images/good1.jpeg) |
